@@ -1,6 +1,6 @@
 # just4test
 
-# raw source URL:
+# raw source download URL:
 the location of the raw source code/static files:
 
 https:// raw.githubusercontent.com /VictoriaLau/repository/branch/dir/file-name.postfix
